@@ -9,7 +9,7 @@
     <div class="ant-layout-sider-logo">
       <router-link to="/dashboard/analysis">
         <img src="@/assets/img/logo.png" />
-        <h1>Fortem TECH | Admin</h1>
+        <h4>Fortem Tech | Admin</h4>
       </router-link>
     </div>
     <a-menu
