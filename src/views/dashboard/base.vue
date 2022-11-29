@@ -19,9 +19,9 @@
         <router-view />
       </a-layout-content>
       <div class="page-dashboard-footer">
-        © 2019-2021
-        <a href="https://demo.zsmartex.tech" target="_blank">ZSmartex</a>
-        . All rights reserved.
+        © 2018-2022 
+        <a href="https://fortem-one.tech" target="_blank">Fortem Technologies Inc</a>
+         Copyright
       </div>
     </div>
   </a-layout>
