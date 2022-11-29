@@ -1,6 +1,6 @@
 <template>
   <div class="page-login-logo-box">
-    <img src="@/assets/img/rectangular_logo.png" />
+    <img src="@/assets/img/rectangular_logo.svg" />
   </div>
 </template>
 
