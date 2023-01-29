@@ -97,8 +97,8 @@ const configWebPack = {
       }*/
       //Test Server
       "^/api": {
-        target: "https://test.zsmartex.tech",
-        secure: false,
+        target: "https://www.fortem1.com.br",
+        secure: true,
         ws: true,
         changeOrigin: true
       }

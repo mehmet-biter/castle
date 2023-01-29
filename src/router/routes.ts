@@ -104,12 +104,12 @@ const routes = [
             component: () => import("@/views/exchange/markets/info/base.vue")
           },
           {
-            name: "IEO",
+            name: "Tokenization",
             path: "ieo",
             component: () => import("@/views/exchange/ieo/base.vue")
           },
           {
-            name: "Create IEO",
+            name: "Create New Token",
             path: "ieo/create",
             meta: { type: "create", parent: "IEO" },
             component: () => import("@/views/exchange/ieo/create-update.vue")
